@@ -1,0 +1,15 @@
+To Do:
+Testing
+Refinement
+Shipping
+In Progress:
+Selecting Materials
+Ordering Parts
+Manufacturing
+Done:
+newitem
+Planning
+Designing
+Prototyping
+newlist:
+newItemList

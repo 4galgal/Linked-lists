@@ -1,0 +1,12 @@
+Xbox:
+Halo
+Gears of War
+Forza
+PlayStation:
+God of War
+The Last of Us
+Spider-Man
+Nintendo:
+Mario
+Zelda
+Metroid
